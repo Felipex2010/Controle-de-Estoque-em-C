@@ -235,7 +235,6 @@ int main()
             printf("Numero Invalido, tente novamente!\n");
             continue;
         }
-        scanf("%d", &caso);
         switch (caso)
         {
 
